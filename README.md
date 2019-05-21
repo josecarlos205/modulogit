@@ -1,7 +1,5 @@
-Meu primeiro sistema no GIT
+Meu segundo sistema no GIT
 
-alterar para o git que quizer comando
+alterar o que quiser
 
-(git reset -hard d20d6b425478970bccfd81bafcf318e8bf09591)
-
-alteração feita
+alguma nova linha legal
